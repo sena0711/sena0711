@@ -1,7 +1,6 @@
 # Sena Kim - DevOps Engineer
 
-![Visitor](https://visitor-badge.glitch.me/badge?page_id=sena0711)  
-
+[![Hits](https://hits.sh/github.com/sena0711/hits.svg)](https://hits.sh/github.com/sena0711/hits/)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-DeveloperSenaKim-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/DeveloperSenaKim/)
 ![GitHub](https://img.shields.io/badge/GitHub-sena0711-lightgrey?style=flat-square&logo=github&logoColor=white&link=https://github.com/sena0711)
 
