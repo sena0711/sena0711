@@ -1,13 +1,40 @@
 # Sena Kim - DevOps Engineer
 
 ![Visitor](https://visitor-badge.glitch.me/badge?page_id=sena0711)  
+
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-DeveloperSenaKim-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/DeveloperSenaKim/)
 ![GitHub](https://img.shields.io/badge/GitHub-sena0711-lightgrey?style=flat-square&logo=github&logoColor=white&link=https://github.com/sena0711)
 
 ## About Me
 Experienced **Cloud & DevOps Engineer** with a strong background in AWS, GCP, and Kubernetes. Skilled in **infrastructure automation (Terraform, Ansible)**, **CI/CD pipelines**, and **cloud cost optimization**. Passionate about improving **operational efficiency** and **security** through automation.
 
----
+#### DevOps Tools
+
+<div>
+  <img src="https://img.shields.io/badge/Amazon Web Services-232F3E?style=flat-square&logo=AmazonWebServices&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/></a>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Drone CI-212121?style=flat-square&logo=TravisCI&logoColor=black"/></a>
+  <img src="https://img.shields.io/badge/Jenkins-3EAAAF?style=flat-square&logo=Jenkins&logoColor=black"/></a>
+  <img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=Ansible&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Argo CD-EF7B4D?style=flat-square&logo=Argo&logoColor=white"/></a>  
+  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=GitHubActions&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=Terraform&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=Helm&logoColor=white"/></a>
+
+#### Collaboration Tools
+
+<div>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=Gitlab&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/></a>
+</div>
+
 
 ## 📌 Experience
 
